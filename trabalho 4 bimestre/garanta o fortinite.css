@@ -2,7 +2,8 @@ li.nav-item:hover{border-bottom: solid 3px yellow;}
 a.nav-link{font-size: 14px;}
 i.fa-search{color: grey;}
 
-
+a.garanta:hover{border: none;}
+a.garanta{border-bottom: solid 3px yellow;}
 .buttonjoguegratis{background-color:yellow;
 	width: 500px;
 	margin-top: 620px;
@@ -11,5 +12,14 @@ i.fa-search{color: grey;}
 	height:90px; }
 
 .botaoandroid{position: absolute;
+	margin-top: 100px;
+	transition: transform .2s; 
   }
- 
+ .botaoandroid:hover{opacity:0.9; }
+ /*pagina assistir */
+ li.nav-item:hover{border-bottom: solid 3px yellow;}
+a.nav-link{font-size: 14px;}
+i.fa-search{color: grey;}
+
+a.assistir:hover{border: none;}
+a.assistir{border-bottom: solid 3px yellow;}
