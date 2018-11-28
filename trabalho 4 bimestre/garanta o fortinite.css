@@ -23,3 +23,11 @@ i.fa-search{color: grey;}
 
 a.assistir:hover{border: none;}
 a.assistir{border-bottom: solid 3px yellow;}
+
+/*Pagina de noticias */
+li.nav-item:hover{border-bottom: solid 3px yellow;}
+a.nav-link{font-size: 14px;}
+i.fa-search{color: grey;}
+
+a.noticia:hover{border: none;}
+a.noticia{border-bottom: solid 3px yellow;}
