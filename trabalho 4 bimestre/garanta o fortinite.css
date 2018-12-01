@@ -42,3 +42,10 @@ a.noticia{border-bottom: solid 3px yellow;}
 .card1:hover{border-bottom: solid 7px #03B7FF;
 }
 
+.buttonvermais{background-color:yellow;
+	width: 300px;
+	margin-top: 300px;
+	margin-left: 430px;
+	border: none;
+	height:50px; }
+
